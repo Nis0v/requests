@@ -10,7 +10,8 @@
 
 Sample Input 1:
 
-  https://stepic.org/media/attachments/lesson/24472/sample0.html \n
+  https://stepic.org/media/attachments/lesson/24472/sample0.html
+  
   https://stepic.org/media/attachments/lesson/24472/sample2.html
 Sample Output 1:
 
@@ -18,6 +19,7 @@ Yes
 Sample Input 2:
 
   https://stepic.org/media/attachments/lesson/24472/sample0.html
+  
   https://stepic.org/media/attachments/lesson/24472/sample1.html
 Sample Output 2:
 
@@ -25,6 +27,7 @@ No
 Sample Input 3:
 
   https://stepic.org/media/attachments/lesson/24472/sample1.html
+  
   https://stepic.org/media/attachments/lesson/24472/sample2.html
 Sample Output 3:
 
