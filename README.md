@@ -11,32 +11,32 @@
 
 Обратите внимание на то, что не все ссылки внутри HTML документа могут вести на существующие HTML документы.
 
-Sample Input 1:
+# Sample Input 1:
 
   https://stepic.org/media/attachments/lesson/24472/sample0.html
   
   https://stepic.org/media/attachments/lesson/24472/sample2.html
   
-Sample Output 1:
+# Sample Output 1:
 
-# Yes
+Yes
   
-Sample Input 2:
+# Sample Input 2:
 
   https://stepic.org/media/attachments/lesson/24472/sample0.html
   
   https://stepic.org/media/attachments/lesson/24472/sample1.html
   
-Sample Output 2:
+# Sample Output 2:
 
-# No
+No
   
-Sample Input 3:
+# Sample Input 3:
 
   https://stepic.org/media/attachments/lesson/24472/sample1.html
   
   https://stepic.org/media/attachments/lesson/24472/sample2.html
   
-Sample Output 3:
+# Sample Output 3:
 
-# Yes
+Yes
